@@ -1,0 +1,6 @@
+client/node_modules
+server/node_modules/
+server/gateway/node_modules/
+server/services/auth/node_modules/
+server/services/user/node_modules/
+server/services/admin/node_modules/
