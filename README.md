@@ -29,3 +29,13 @@ Description of a few tasks:
   we make use of the key in the user collection called "fDisabled", if we make it true, then the user can't login again, and   we also remove the entry of user from session collection/
 
 P. S. -> database is in mongoDB.
+
+steps to install node_modules
+
+- cd client && npm install
+- cd server/gateway && npm install
+- cd server/services/admin && npm install
+- cd server/services/auth && npm install
+- cd server/services/user && npm install
+
+
